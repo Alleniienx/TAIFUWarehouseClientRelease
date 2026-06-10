@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.3",
-    "downloadUrl":  "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.3.exe",
-    "sha256":  "0274ffbe3dfc0d852c944a378719e84379582f0c76f917726a8fc4a854765cd9",
-    "releaseNotes":  "TAIFU Warehouse Client 1.0.3"
+    "version":  "1.0.4",
+    "downloadUrl":  "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.4.exe",
+    "sha256":  "b39af49328646ca19a6cd51eb61022235526791740ee59ebe6e2919e9e281720",
+    "releaseNotes":  "TAIFU Warehouse Client 1.0.4"
 }

@@ -1,6 +1,6 @@
-﻿{
-    "version":  "2026.6.10.5",
-    "downloadUrl":  "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-2026.6.10.5.exe",
-    "sha256":  "77a0c339a128d8c9a8b21d8de987ef842cd5913fe0b8b8f52b33f215bea972a8",
-    "releaseNotes":  "TAIFU Warehouse Client 2026.6.10.5"
+{
+    "version":  "2026.6.10.6",
+    "downloadUrl":  "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-2026.6.10.6.exe",
+    "sha256":  "1450b11ed1c5606cd3e576ac987d0bafaa0408e8f76338d3638dae5d1fb67f74",
+    "releaseNotes":  "TAIFU Warehouse Client 2026.6.10.6"
 }

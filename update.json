@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.85",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.85.exe",
+    "version":  "1.0.86",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.86.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.85.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.85.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.86.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.86.exe"
                      ],
-    "sha256":  "3b7dbd97076d9e583dad5b1f39d4f6f64e2f302545256da9368204629e0a143f",
-    "releaseNotes":  "TAIFU Warehouse Client 1.0.85"
+    "sha256":  "03f9085ef7eb2baca71eaafcf4cd0a864fbe76dd3e9ca2f56dbaa7233d3033fa",
+    "releaseNotes":  "TAIFU Warehouse Client 1.0.86"
 }

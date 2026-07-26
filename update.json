@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.91",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.91.exe",
+    "version":  "1.0.92",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.92.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.91.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.91.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.92.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.92.exe"
                      ],
-    "sha256":  "9c0b9c989d7b1cffc3434b02fe4131f4907d4ce202a1bea33e0d7a220b19a4e7",
-    "releaseNotes":  "TAIFU Warehouse Client 1.0.91"
+    "sha256":  "c0da24f8a02cf3dcff0779c2264c5cbe111a403b543416f448cba8c6a9f43303",
+    "releaseNotes":  "新公告无需重启即可提醒；修正二销关联新订单的包裹状态"
 }

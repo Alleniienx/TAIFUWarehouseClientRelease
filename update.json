@@ -6,5 +6,5 @@
                          "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.92.exe"
                      ],
     "sha256":  "c0da24f8a02cf3dcff0779c2264c5cbe111a403b543416f448cba8c6a9f43303",
-    "releaseNotes":  "新公告无需重启即可提醒；修正二销关联新订单的包裹状态"
+    "releaseNotes":  "\u65b0\u516c\u544a\u65e0\u9700\u91cd\u542f\u5373\u53ef\u63d0\u9192\uff1b\u4fee\u6b63\u4e8c\u9500\u5173\u8054\u65b0\u8ba2\u5355\u7684\u5305\u88f9\u72b6\u6001"
 }

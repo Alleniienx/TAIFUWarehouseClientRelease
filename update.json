@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.93",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.93.exe",
+    "version":  "1.1.0",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.0.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.0.93.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.0.93.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.0.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.0.exe"
                      ],
-    "sha256":  "014fd675b8505674d2d15a4cfb1411f958f1607b7151b8553b9d94268be14995",
-    "releaseNotes":  "\u4f18\u5316\u591a\u5305\u88f9\u8ba2\u5355\u7684\u5feb\u9012\u4fe1\u606f\u7ba1\u7406\uff0c\u63d0\u5347\u7f16\u8f91\u4e0e\u540c\u6b65\u4f53\u9a8c"
+    "sha256":  "70772297c087e8b506a0c491e83e38cf7808a621cfad46dea029b0647c5cf3d6",
+    "releaseNotes":  "全新升级客户端界面，优化订单信息展示与多订单关联提示，提升导航、筛选及操作体验"
 }

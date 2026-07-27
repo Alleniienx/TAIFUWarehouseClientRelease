@@ -5,6 +5,6 @@
                          "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.0.exe",
                          "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.0.exe"
                      ],
-    "sha256":  "70772297c087e8b506a0c491e83e38cf7808a621cfad46dea029b0647c5cf3d6",
-    "releaseNotes":  "全新升级客户端界面，优化订单信息展示与多订单关联提示，提升导航、筛选及操作体验"
+    "sha256":  "2751e2b3ee46dccdb6c5cd11cad5dc52374e6d279c163c3f8b036447c60b0955",
+    "releaseNotes":  "\u5168\u65b0\u5347\u7ea7\u5ba2\u6237\u7aef\u754c\u9762\uff0c\u4f18\u5316\u8ba2\u5355\u4fe1\u606f\u5c55\u793a\u4e0e\u591a\u8ba2\u5355\u5173\u8054\u63d0\u793a\uff0c\u63d0\u5347\u5bfc\u822a\u3001\u7b5b\u9009\u53ca\u64cd\u4f5c\u4f53\u9a8c"
 }

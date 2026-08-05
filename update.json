@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.10",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.10.exe",
+    "version":  "1.1.11",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.11.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.10.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.10.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.11.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.11.exe"
                      ],
-    "sha256":  "626ac59214fd6cb756e6be1a083239a44e1c030b24b9f8ab67438dec1483ee68",
-    "releaseNotes":  "\u65b0\u589e Ushop ERP \u8ba2\u5355\u540c\u6b65\u652f\u6301\uff0c\u5b8c\u5584\u591a\u5546\u54c1\u8ba2\u5355\u53ca\u8ba2\u5355\u72b6\u6001\u8bc6\u522b\uff1b\u4f18\u5316\u540e\u53f0\u68c0\u67e5\u4e0e\u52a0\u8f7d\u63d0\u793a\uff0c\u51cf\u5c11\u9875\u9762\u65e0\u64cd\u4f5c\u65f6\u7684\u95ea\u5c4f"
+    "sha256":  "d35599a6337025cf3c6f8f820aa90cf8a01faf76f4326e4c0f127e6d5df9d085",
+    "releaseNotes":  "\u4fee\u590d\u5df2\u64a4\u9500\u8ba2\u5355\u91cd\u65b0\u540c\u6b65\u65f6\u8986\u76d6\u5386\u53f2\u8bb0\u5f55\u7684\u95ee\u9898\uff0c\u4f18\u5316\u8ba2\u5355\u5199\u5165\u4e0e\u79ef\u5206\u9000\u6b3e\u4fdd\u62a4\uff1b\u589e\u5f3a\u542f\u52a8\u66f4\u65b0\u68c0\u6d4b\u7a33\u5b9a\u6027"
 }

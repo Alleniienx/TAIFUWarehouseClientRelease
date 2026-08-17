@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.19",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.19.exe",
+    "version":  "1.1.22",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.22.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.19.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.19.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.22.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.22.exe"
                      ],
-    "sha256":  "4f72bdbd6a473fa3db29557e03332361a697e473dffd899ee91068835d4d8c08",
-    "releaseNotes":  "\u4f18\u5316\u5ba2\u6237\u7aef\u542f\u52a8\u4e0e\u7a97\u53e3\u4ea4\u4e92\u4f53\u9a8c\uff0c\u4fee\u590d\u65e7\u7248\u672c\u66f4\u65b0\u540e\u7684\u542f\u52a8\u53caERP\u8fde\u63a5\u6062\u590d\u95ee\u9898\uff0c\u63d0\u5347\u591a\u4ed3\u5e93\u5de5\u4f5c\u533a\u7a33\u5b9a\u6027\u3002",
-    "releaseDate":  "2026-08-14"
+    "sha256":  "5342974f191c3bd5716d265e845bc7a09c424e072a315960a7a17f71a42dcfcf",
+    "releaseNotes":  "\u4fee\u590d\u66f4\u65b0\u4e0b\u8f7d\u5b8c\u6210\u540e\u624b\u52a8\u5173\u95ed\u5e76\u91cd\u65b0\u6253\u5f00\u5ba2\u6237\u7aef\u65f6\u672a\u8fdb\u5165\u5b89\u88c5\u6d41\u7a0b\u7684\u95ee\u9898\uff1b\u5ba2\u6237\u7aef\u6539\u4e3a\u81ea\u5e26\u8fd0\u884c\u73af\u5883\uff0c\u51cf\u5c11\u7f3a\u5c11 .NET \u8fd0\u884c\u5e93\u5bfc\u81f4\u7684\u542f\u52a8\u5931\u8d25\uff1b\u4fee\u590d\u4efb\u52a1\u680f\u5c0f\u7a97\u53e3\u4e0e\u9884\u89c8\u56fe\u6807\u663e\u793a\u5f02\u5e38\u3002",
+    "releaseDate":  "2026-08-17"
 }

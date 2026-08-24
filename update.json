@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.26",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.26.exe",
+    "version":  "1.1.27",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.27.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.26.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.26.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.27.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.27.exe"
                      ],
-    "sha256":  "74196806df823ad1f560fbbd91b527c584664b60e164727819201dacca089c0b",
-    "releaseNotes":  "\u4fee\u590d\u5df2\u77e5\u95ee\u9898\uff0c\u63d0\u5347\u8fd0\u884c\u7a33\u5b9a\u6027",
-    "releaseDate":  "2026-08-22"
+    "sha256":  "39c2089e6f9481472d40283c12a1463c9544d70a24b9d6d43533f0b39360607d",
+    "releaseNotes":  "\u4fee\u590d\u5df2\u77e5\u95ee\u9898\uff0c\u63d0\u5347 ERP \u8fde\u63a5\u7a33\u5b9a\u6027",
+    "releaseDate":  "2026-08-24"
 }

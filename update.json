@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.74",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.74.exe",
-    "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.74.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.74.exe"
-                     ],
-    "sha256":  "d97d756ca8b5f7dfadbc471c99ec48bdcb676e02b3c7bd3cc45b2e4a4c195615",
-    "releaseNotes":  "\u4fee\u590d\u5408\u5305\u9000\u8d27\u4e3b\u5355\u8ba1\u6570\u548c\u5019\u9009\u9009\u62e9\uff0c\u4f18\u5316\u5408\u5305\u5217\u8868\u6a2a\u5411\u6392\u5217\u53ca\u9009\u62e9\u6846\u5185\u6807\u7b7e\uff1b\u7edf\u4e00\u6697\u591c\u6a21\u5f0f\u6309\u94ae\u3001\u72b6\u6001\u3001\u5206\u9875\u548c\u6570\u91cf\u6807\u7b7e\u7684\u6df1\u8272\u914d\u8272\u3002",
-    "releaseDate":  "2026-10-16"
+  "version": "1.1.75",
+  "downloadUrl": "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.75.exe",
+  "downloadUrls": [
+    "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.75.exe",
+    "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.75.exe"
+  ],
+  "sha256": "e4b1a4d2bbf55252977577ba6fc88a1733638c4c356a8e53b03ddb082a5c572a",
+  "releaseNotes": "新增库存已出库数量和首页寄递须知；支持删除无业务关联的停用商品，统一操作菜单图标。",
+  "releaseDate": "2026-10-16"
 }

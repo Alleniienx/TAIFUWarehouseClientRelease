@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.72",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.72.exe",
+    "version":  "1.1.74",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.74.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.72.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.72.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.74.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.74.exe"
                      ],
-    "sha256":  "b4505aed634792630d80a2501d42dbdaed58c7171846bfaa73f16893f0f3e862",
-    "releaseNotes":  "\u4f18\u5316\u5ba2\u6237\u7aef\u4f7f\u7528\u4f53\u9a8c\uff0c\u63d0\u5347\u8fd0\u884c\u7a33\u5b9a\u6027",
-    "releaseDate":  "2026-10-15"
+    "sha256":  "d97d756ca8b5f7dfadbc471c99ec48bdcb676e02b3c7bd3cc45b2e4a4c195615",
+    "releaseNotes":  "\u4fee\u590d\u5408\u5305\u9000\u8d27\u4e3b\u5355\u8ba1\u6570\u548c\u5019\u9009\u9009\u62e9\uff0c\u4f18\u5316\u5408\u5305\u5217\u8868\u6a2a\u5411\u6392\u5217\u53ca\u9009\u62e9\u6846\u5185\u6807\u7b7e\uff1b\u7edf\u4e00\u6697\u591c\u6a21\u5f0f\u6309\u94ae\u3001\u72b6\u6001\u3001\u5206\u9875\u548c\u6570\u91cf\u6807\u7b7e\u7684\u6df1\u8272\u914d\u8272\u3002",
+    "releaseDate":  "2026-10-16"
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.1.75",
-  "downloadUrl": "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.75.exe",
+  "downloadUrl": "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.75.exe?v=e4b1a4d2bbf",
   "downloadUrls": [
-    "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.75.exe",
+    "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.1.75.exe?v=e4b1a4d2bbf",
     "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.1.75.exe"
   ],
   "sha256": "e4b1a4d2bbf55252977577ba6fc88a1733638c4c356a8e53b03ddb082a5c572a",

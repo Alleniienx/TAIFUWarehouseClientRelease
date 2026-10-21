@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.9",
-    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.2.9.exe",
+    "version":  "1.2.10",
+    "downloadUrl":  "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.2.10.exe",
     "downloadUrls":  [
-                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.2.9.exe",
-                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.2.9.exe"
+                         "https://download.taifuwarehouse.dpdns.org/TAIFUWarehouseClientSetup-1.2.10.exe",
+                         "https://raw.githubusercontent.com/Alleniienx/TAIFUWarehouseClientRelease/main/TAIFUWarehouseClientSetup-1.2.10.exe"
                      ],
-    "sha256":  "6794b82d65981fff28efb3887184998d4b4888588af3e3deca69020ae2be37a9",
+    "sha256":  "930a87a363b4a8baf6785b73e55e9e919e3c12c61c844624bed3ff8af0fb8dc0",
     "releaseNotes":  "\u4f18\u5316\u5ba2\u6237\u7aef\u4f7f\u7528\u4f53\u9a8c\uff0c\u63d0\u5347\u8fd0\u884c\u7a33\u5b9a\u6027",
     "releaseDate":  "2026-10-21"
 }
